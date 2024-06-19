@@ -1,1 +1,1 @@
-Deployment in CBE Servers
+Deployment in COE Servers
